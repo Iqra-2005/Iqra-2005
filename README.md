@@ -64,8 +64,8 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 <table>
   <tr>
     <td width="50%">
-      <h3>🌍 ClimateSense</h3>
-      <p><strong>Agentic AI Web App</strong> | Jan 2026</p>
+      <h3>🌍 ClimateSense (Agentic AI Web App)</h3>
+      <p><strong>CSRBOX Internship Project</strong> | Jan 2026</p>
       <p>An intelligent climate action assistant that analyzes your carbon footprint, delivers personalized eco-friendly recommendations, and features an AI chat advisor for sustainable living.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
