@@ -41,8 +41,8 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 
 ## 💼 Work Experience
 
-### 🤖 AI Intern — CSRBOX × IBM SkillsBuild
-**Dec 2025 – Jan 2026**
+### 🤖 AI Intern - CSRBOX in Collaboration with IBM SkillsBuild
+**Dec 2025 - Jan 2026**
 
 - Worked on AI agents and real-world web development under the IBM SkillsBuild program
 - Built and **deployed ClimateSense** - a full AI-powered climate action web app from scratch
@@ -50,8 +50,8 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 
 ---
 
-### 📊 Data Analyst Intern — Excelerate
-**May 2025 – Jun 2025**
+### 📊 Data Analyst Intern - Excelerate
+**May 2025 - Jun 2025**
 
 - Performed comprehensive data cleaning and exploratory data analysis (EDA) using Python
 - Built machine learning models including **Logistic Regression** and **Random Forest**
