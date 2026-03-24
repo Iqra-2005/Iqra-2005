@@ -8,7 +8,7 @@
 
 ### Hey there! I'm Iqra 👋
 
-*"Curious mind. Clean code. Real results - from classroom to code, I learn it, build it, ship it."* 
+**"Curious mind. Clean code. Real results - from classroom to code, I learn it, build it, ship it."**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh-538aa22b6/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.iqratasleem@gmail.com)
@@ -155,7 +155,7 @@ I'm actively looking for **entry-level Data Science / AI roles** and **internshi
 
 <div align="center">
 
-*"Knowledge doesn't sit still - and neither do I. Still learning, still building."*
+**"Knowledge doesn't sit still - and neither do I. Still learning, still building."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
