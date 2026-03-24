@@ -142,31 +142,6 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iqra-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Iqra-2005&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| 🎓 B.Sc. Data Science & AI | Ramniranjan Jhunjhunwala College | 2023 – 2026 | SGPA: **9.32/10** (Sem V) |
-| 📘 HSC (Science) | Dr. Asadullah Khan English High School & Jr. College | 2023 | **71.33%** |
-
----
 
 ## 🤝 Let's Connect!
 
