@@ -8,7 +8,7 @@
 
 ### Hey there! I'm Iqra 👋
 
-*A Data Science & AI student who loves turning messy data into meaningful stories — and building AI tools that actually do something useful.*
+*A Data Science & AI student who loves turning messy data into meaningful stories - and building AI tools that actually do something useful.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqra-2005)
@@ -27,15 +27,15 @@
 class Iqra:
     name       = "Iqra Shaikh"
     pronouns   = "she/her"
-    location   = "Thane, Maharashtra, India 🇮🇳"
+    location   = "Thane, Maharashtra, India"
     education  = "B.Sc. Data Science & AI @ Ramniranjan Jhunjhunwala College (2023–2026)"
     cgpa       = "9.32 / 10 (Semester V)"
     currently  = ["Building AI-powered web apps", "Exploring LLMs & Agentic AI", "Open to internships & entry-level roles"]
     interests  = ["Machine Learning", "Data Analysis", "AI Agents", "Computer Vision"]
-    fun_fact   = "I built a facial recognition attendance system as my final year project 🧠"
+    fun_fact   = "I built a facial recognition attendance system as my final year project "
 ```
 
-I'm a final-year Data Science & AI student who has gone from learning pandas to building agentic AI applications. I genuinely enjoy the full pipeline — cleaning data, building models, and shipping something real. If there's a problem and data involved, I'm already thinking about it.
+I'm a final-year Data Science & AI student who has gone from learning pandas to building agentic AI applications. I genuinely enjoy the full pipeline - cleaning data, building models, and shipping something real. If there's a problem and data involved, I'm already thinking about it.
 
 ---
 
@@ -45,7 +45,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 **Dec 2025 – Jan 2026**
 
 - Worked on AI agents and real-world web development under the IBM SkillsBuild program
-- Built and **deployed ClimateSense** — a full AI-powered climate action web app from scratch
+- Built and **deployed ClimateSense** - a full AI-powered climate action web app from scratch
 - Gained hands-on experience in agentic AI development and end-to-end solution deployment
 
 ---
@@ -184,7 +184,7 @@ I'm actively looking for **entry-level Data Science / AI roles** and **internshi
 
 <div align="center">
 
-*"Data is not just numbers. It's the story of what happened — and the clue to what comes next."*
+*"Data is not just numbers. It's the story of what happened - and the clue to what comes next."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
