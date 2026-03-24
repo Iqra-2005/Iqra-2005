@@ -76,7 +76,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
     </td>
     <td width="50%">
       <h3>🧠 FaceCheck</h3>
-      <p><strong>Final Year Project</strong> | Jul – Sep 2025</p>
+      <p><strong>Final Year Project</strong> | Jul - Sep 2025</p>
       <p>A facial recognition-based attendance system using a Siamese neural network. Supports multi-device access, secure embedding storage, and maintains user privacy throughout.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -89,7 +89,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
   <tr>
     <td width="50%">
       <h3>📉 Customer Churn Prediction</h3>
-      <p><strong>Excelerate Internship Project</strong> | May – Jun 2025</p>
+      <p><strong>Excelerate Internship Project</strong> | May - Jun 2025</p>
       <p>End-to-end ML pipeline: data cleaning, feature engineering, EDA with pandas & matplotlib, churn prediction models, and a recommendation system for student opportunities.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -101,7 +101,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
     <td width="50%">
       <h3>🔍 AI Job Application Fit Analyzer</h3>
       <p><strong>Personal Project</strong></p>
-      <p>An AI-powered web app that analyzes how well a resume matches a given job description using an AI agent — helpful for job seekers who want tailored feedback instantly.</p>
+      <p>An AI-powered web app that analyzes how well a resume matches a given job description using an AI agent, helpful for job seekers who want tailored feedback instantly.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Agent-FF6F61?style=flat-square"/>
