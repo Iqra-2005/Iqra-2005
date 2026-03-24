@@ -75,7 +75,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
       <a href="https://huggingface.co/spaces/Iqra2005/Climate-Sense">🔗 View Project</a>
     </td>
     <td width="50%">
-      <h3>🧠 FaceCheck</h3>
+      <h3>🌐 FaceCheck</h3>
       <p><strong>Final Year Project</strong> | Jul - Sep 2025</p>
       <p>A facial recognition-based attendance system using a Siamese neural network. Supports multi-device access, secure embedding storage, and maintains user privacy throughout.</p>
       <p>
