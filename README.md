@@ -8,7 +8,7 @@
 
 ### Hey there! I'm Iqra 👋
 
-*A Data Science & AI student who loves turning messy data into meaningful stories - and building AI tools that actually do something useful.* 
+*"Curious mind. Clean code. Real results - from classroom to code, I learn it, build it, ship it."* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh-538aa22b6/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.iqratasleem@gmail.com)
