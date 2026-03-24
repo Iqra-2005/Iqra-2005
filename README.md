@@ -8,7 +8,7 @@
 
 ### Hey there! I'm Iqra 👋
 
-*A Data Science & AI student who loves turning messy data into meaningful stories - and building AI tools that actually do something useful.*
+*A Data Science & AI student who loves turning messy data into meaningful stories - and building AI tools that actually do something useful.* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh-538aa22b6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqra-2005)
