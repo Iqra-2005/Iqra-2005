@@ -14,7 +14,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqra-2005)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.iqratasleem@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Iqra-2005&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
 
