@@ -155,7 +155,7 @@ I'm actively looking for **entry-level Data Science / AI roles** and **internshi
 
 <div align="center">
 
-*"Data is not just numbers. It's the story of what happened - and the clue to what comes next."*
+*"Knowledge doesn't sit still - and neither do I. Still learning, still building."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
