@@ -13,7 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh-538aa22b6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iqra-2005)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.iqratasleem@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Iqra2005)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Iqra-2005&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
@@ -73,7 +72,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=flat-square"/>
       </p>
-      <a href="https://github.com/Iqra-2005/Climate-Sense">🔗 View Project</a>
+      <a href="https://huggingface.co/spaces/Iqra2005/Climate-Sense">🔗 View Project</a>
     </td>
     <td width="50%">
       <h3>🧠 FaceCheck</h3>
@@ -84,7 +83,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
         <img src="https://img.shields.io/badge/Computer%20Vision-00BFFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       </p>
-      <a href="https://github.com/Iqra-2005/FaceCheck-Web-App">🔗 View Project</a>
+      <a href="https://huggingface.co/spaces/Iqra2005/FaceCheck">🔗 View Project</a>
     </td>
   </tr>
   <tr>
@@ -107,7 +106,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Agent-FF6F61?style=flat-square"/>
       </p>
-      <a href="https://github.com/Iqra-2005/AI-Job-Application-Fit-Analyzer">🔗 View Project</a>
+      <a href="https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer">🔗 View Project</a>
     </td>
   </tr>
 </table>
@@ -145,7 +144,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 
 ## 🤝 Let's Connect!
 
-I'm actively looking for **entry-level Data Science / AI roles** and **internship opportunities**. If you're working on something interesting in data, ML, or AI — I'd love to chat!
+I'm actively looking for **entry-level Data Science / AI roles** and **internship opportunities**. If you're working on something interesting in data, ML, or AI - I'd love to chat!
 
 <div align="center">
 
