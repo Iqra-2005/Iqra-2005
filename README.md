@@ -55,7 +55,7 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=flat-square"/>
-      </p>| [Live Demo](https://huggingface.co/spaces/Iqra2005/Climate-Sense) |
+      </p> | [Live Demo](https://huggingface.co/spaces/Iqra2005/Climate-Sense) |
 | 🧠 FaceCheck | Facial recognition attendance system with secure embedding storage | Multi-device, privacy-first | Python, Siamese Net, HTML | [Demo](https://huggingface.co/spaces/Iqra2005/FaceCheck) |
 | 📉 Churn Prediction | End-to-end ML pipeline with EDA, feature engineering & recommendation system | ~85% model accuracy | Python, Scikit-Learn, Pandas | [Repo](https://github.com/Iqra-2005/Excelerate-Data-Analyst-Internship) |
 | 🔍 AI Job Fit Analyzer | AI agent that scores resume-to-job description match & gives feedback | Deployed on HuggingFace | Python, AI Agent | [Demo](https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer) |
