@@ -44,15 +44,6 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 - Quick to adopt new AI frameworks and tools - from Scikit-Learn to LangChain
 - Strong written and verbal communication across technical and non-technical audiences
 
----
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| 🌍 **ClimateSense** — *CSRBOX Internship \| Jan 2026* | Agent-based AI app that analyzes carbon footprint & delivers personalized eco-friendly recommendations with an AI chat advisor | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F61?style=flat-square) | [🔗 Demo](https://huggingface.co/spaces/Iqra2005/Climate-Sense) |
-| 🧠 **FaceCheck** — *Final Year Project \| Jul–Sep 2025* | Facial recognition attendance system using a Siamese neural network with multi-device support and secure embedding storage | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00BFFF?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | [🔗 Demo](https://huggingface.co/spaces/Iqra2005/FaceCheck) |
-| 📉 **Churn Prediction** — *Excelerate Internship \| May–Jun 2025* | End-to-end ML pipeline — cleaning, feature engineering, EDA, churn modeling, and a student opportunity recommendation system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [🔗 Repo](https://github.com/Iqra-2005/Excelerate-Data-Analyst-Internship) |
-| 🔍 **AI Job Fit Analyzer** — *Personal Project* | AI agent that scores how well a resume matches a job description and gives instant tailored feedback to job seekers | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-FF6F61?style=flat-square) | [🔗 Demo](https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer) |
 
 ---
 
