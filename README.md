@@ -36,24 +36,26 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 
 ---
 
-## 💼 Work Experience
+## 💡 What I Bring
 
-### 🤖 AI Intern - CSRBOX in Collaboration with IBM SkillsBuild
-**Dec 2025 - Jan 2026**
-
-- Worked on AI agents and real-world web development under the IBM SkillsBuild program
-- Built and **deployed ClimateSense** - a full AI-powered climate action web app from scratch
-- Gained hands-on experience in agentic AI development and end-to-end solution deployment
+- End-to-end ML project experience - data cleaning, modeling, and deployment
+- Proficient in EDA, data visualization, and translating data into actionable insights
+- Hands-on internship experience with real-world datasets and stakeholder reporting
+- Quick to adopt new AI frameworks and tools - from Scikit-Learn to LangChain
+- Strong written and verbal communication across technical and non-technical audiences
 
 ---
 
-### 📊 Data Analyst Intern - Excelerate
-**May 2025 - Jun 2025**
 
-- Performed comprehensive data cleaning and exploratory data analysis (EDA) using Python
-- Built machine learning models including **Logistic Regression** and **Random Forest**
-- Developed a basic recommendation system and presented insights to stakeholders
-- Handled the complete data-to-insights pipeline independently
+## 🚀 Key Projects
+
+| Project | What it does | Impact | Stack | Link |
+|---------|-------------|--------|-------|------|
+| 🌍 ClimateSense | Agent-based AI app that analyzes carbon footprint & gives personalized eco recommendations | Deployed end-to-end | Python, LangChain, AI Agents | [Live Demo](https://huggingface.co/spaces/Iqra2005/Climate-Sense) |
+| 🧠 FaceCheck | Facial recognition attendance system with secure embedding storage | Multi-device, privacy-first | Python, Siamese Net, HTML | [Demo](https://huggingface.co/spaces/Iqra2005/FaceCheck) |
+| 📉 Churn Prediction | End-to-end ML pipeline with EDA, feature engineering & recommendation system | ~85% model accuracy | Python, Scikit-Learn, Pandas | [Repo](https://github.com/Iqra-2005/Excelerate-Data-Analyst-Internship) |
+| 🔍 AI Job Fit Analyzer | AI agent that scores resume-to-job description match & gives feedback | Deployed on HuggingFace | Python, AI Agent | [Demo](https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer) |
+
 
 ---
 
