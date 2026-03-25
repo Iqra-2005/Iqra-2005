@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Iqra Shaikh</h1>
+<h3 align="center">📊 Data Science & AI Student | 🤖 Building with ML & AI Agents | 🌍 Real-World Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📊+Data+Science+%26+AI+Student;🤖+Building+with+ML+%26+AI+Agents;🌍+Real-World+Problem+Solver" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Student+from+India;Building+Real-World+AI+Applications;ML+%7C+LangChain+%7C+Agentic+AI+Explorer" alt="Typing SVG" />
 </p>
 
 
@@ -74,17 +75,6 @@
 
 ---
 
-
-## 🚀 Key Projects
-
-| Project | What it does | Impact | Stack | Link |
-|---------|-------------|--------|-------|------|
-| 🌍 ClimateSense | Agent-based AI app that analyzes carbon footprint & gives personalized eco recommendations | Deployed end-to-end | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F61?style=flat-square) | [Live Demo](https://huggingface.co/spaces/Iqra2005/Climate-Sense) |
-| 🌐 FaceCheck | Facial recognition attendance system with secure embedding storage | Multi-device, privacy focused | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00BFFF?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://huggingface.co/spaces/Iqra2005/FaceCheck) |
-| 📉 Churn Prediction | End-to-end ML pipeline with EDA, feature engineering & recommendation system | ~85% model accuracy | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [Repo](https://github.com/Iqra-2005/Excelerate-Data-Analyst-Internship) |
-| 🔍 AI Job Fit Analyzer | AI agent that scores resume-to-job description match & gives feedback | Deployed on HuggingFace |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-FF6F61?style=flat-square) | [Demo](https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer) |
-
----
 
 
 ## 📊 GitHub Stats
