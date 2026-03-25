@@ -1,38 +1,62 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Iqra Shaikh</h1>
+<h3 align="center">📊 Data Science & AI Student | 🤖 Building with ML & AI Agents | 🌍 Real-World Problem Solver</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Iqra%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Student+from+India;Building+Real-World+AI+Applications;ML+%7C+LangChain+%7C+Agentic+AI+Explorer" alt="Typing SVG" />
+</p>
 
-</div>
-
-<div align="center">
-
-### Hey there! I'm Iqra 👋
-
-***"Curious mind. Clean code. Real results - from classroom to code, I learn it, build it, ship it."***
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh-538aa22b6/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.iqratasleem@gmail.com)
-
-
-</div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 💫 About Me
 
-```python
-class Iqra:
-    name       = "Iqra Shaikh"
-    pronouns   = "she/her"
-    location   = "Thane, Maharashtra, India"
-    education  = "B.Sc. Data Science & AI @ Ramniranjan Jhunjhunwala College (2023–2026)"
-    cgpa       = "9.32 / 10 (Semester V)"
-    currently  = ["Building AI-powered web apps", "Exploring LLMs & Agentic AI", "Open to internships & entry-level roles"]
-    interests  = ["Machine Learning", "Data Analysis", "AI Agents", "Computer Vision"]
-    fun_fact   = "I built a facial recognition attendance system as my final year project "
-```
+🎓 Final-year **B.Sc. Data Science & AI** student at Ramniranjan Jhunjhunwala College, Mumbai - SEM V (SGPA): **9.32/10**  
+🤖 Passionate about building real-world AI applications - from raw data to deployed solutions  
+🌱 Currently exploring **Agentic AI**, LLM workflows, and model deployment  
+📍 Based in Thane, Maharashtra, India  
+💼 Actively seeking entry-level roles in **Data Science | AI/ML | Data Analytics**
 
-I'm a final-year Data Science & AI student who has gone from learning pandas to building agentic AI applications. I genuinely enjoy the full pipeline - cleaning data, building models, and shipping something real. If there's a problem and data involved, I'm already thinking about it.
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+### 📊 Data Analysis Libraries
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🤖 ML & AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+## 💬 Soft Skills
+
+🧠 Problem Solving • 📊 Data Storytelling • ⏱ Time Management  
+🤝 Team Collaboration • 🎙 Communication • ⚡ Quick Learner
 
 ---
 
@@ -44,109 +68,48 @@ I'm a final-year Data Science & AI student who has gone from learning pandas to 
 - Quick to adopt new AI frameworks and tools - from Scikit-Learn to LangChain
 - Strong written and verbal communication across technical and non-technical audiences
 
+---
+
+
+## 🚀 Key Projects
+
+| Project | What it does | Impact | Stack | Link |
+|---------|-------------|--------|-------|------|
+| 🌍 ClimateSense | Agent-based AI app that analyzes carbon footprint & gives personalized eco recommendations | Deployed end-to-end | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F61?style=flat-square) | [Live Demo](https://huggingface.co/spaces/Iqra2005/Climate-Sense) |
+| 🌐 FaceCheck | Facial recognition attendance system with secure embedding storage | Multi-device, privacy-first | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00BFFF?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | [Demo](https://huggingface.co/spaces/Iqra2005/FaceCheck) |
+| 📉 Churn Prediction | End-to-end ML pipeline with EDA, feature engineering & recommendation system | ~85% model accuracy | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [Repo](https://github.com/Iqra-2005/Excelerate-Data-Analyst-Internship) |
+| 🔍 AI Job Fit Analyzer | AI agent that scores resume-to-job description match & gives feedback | Deployed on HuggingFace |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI Agent](https://img.shields.io/badge/AI%20Agent-FF6F61?style=flat-square) | [Demo](https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer) |
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌍 ClimateSense (Agentic AI Web App)</h3>
-      <p><strong>CSRBOX Internship Project</strong> | Jan 2026</p>
-      <p>An intelligent climate action assistant that analyzes your carbon footprint, delivers personalized eco-friendly recommendations, and features an AI chat advisor for sustainable living.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=flat-square"/>
-      </p>
-      <a href="https://huggingface.co/spaces/Iqra2005/Climate-Sense">🔗 View Project</a>
-    </td>
-    <td width="50%">
-      <h3>🌐 FaceCheck</h3>
-      <p><strong>Final Year Project</strong> | Jul - Sep 2025</p>
-      <p>A facial recognition-based attendance system using a Siamese neural network. Supports multi-device access, secure embedding storage, and maintains user privacy throughout.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Computer%20Vision-00BFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-      <a href="https://huggingface.co/spaces/Iqra2005/FaceCheck">🔗 View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📉 Customer Churn Prediction</h3>
-      <p><strong>Excelerate Internship Project</strong> | May - Jun 2025</p>
-      <p>End-to-end ML pipeline: data cleaning, feature engineering, EDA with pandas & matplotlib, churn prediction models, and a recommendation system for student opportunities.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Iqra-2005/Excelerate-Data-Analyst-Internship">🔗 View Project</a>
-    </td>
-    <td width="50%">
-      <h3>🔍 AI Job Application Fit Analyzer</h3>
-      <p><strong>Personal Project</strong></p>
-      <p>An AI-powered web app that analyzes how well a resume matches a given job description using an AI agent, helpful for job seekers who want tailored feedback instantly.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Agent-FF6F61?style=flat-square"/>
-      </p>
-      <a href="https://huggingface.co/spaces/Iqra2005/AI-Job-Fit-Analyzer">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iqra-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Tools & Platforms
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
 
 ## 🤝 Let's Connect!
 
-I'm actively looking for **entry-level Data Science / AI roles** and **internship opportunities**. If you're working on something interesting in data, ML, or AI - I'd love to chat!
+📩 **Open to:**
+- Data Analyst roles
+- AI / ML internships
+- Entry-level Data Science positions
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqra-shaikh-538aa22b6/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.iqratasleem@gmail.com)
 
+*"Knowledge doesn't sit still - and neither do I. Still learning, still building."*
+
 </div>
+
 
 ---
-
-<div align="center">
-
-***"Knowledge doesn't sit still - and neither do I. Still learning, still building."***
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-</div>
