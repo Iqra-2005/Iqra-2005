@@ -2,7 +2,7 @@
 <h3 align="center">📊 Data Science & AI Student | 🤖 Building with ML & AI Agents | 🌍 Real-World Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Student+from+India;Building+Real-World+AI+Applications;ML+%7C+LangChain+%7C+Agentic+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📊+Data+Science+%26+AI+Student;🤖+Building+with+ML+%26+AI+Agents;🌍+Real-World+Problem+Solver" alt="Typing SVG" />
 </p>
 
 
