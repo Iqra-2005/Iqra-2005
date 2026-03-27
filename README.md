@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-🎓 Final-year **B.Sc. Data Science & AI** student at Ramniranjan Jhunjhunwala College, Mumbai - SEM V (SGPA): **9.32/10**  
+🎓 Final-year **B.Sc. Data Science & AI** student at Ramniranjan Jhunjhunwala College, Mumbai 
 🤖 Passionate about building real-world AI applications - from raw data to deployed solutions  
 🌱 Currently exploring **Agentic AI**, LLM workflows, and model deployment  
 📍 Based in Thane, Maharashtra, India  
