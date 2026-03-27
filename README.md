@@ -81,7 +81,8 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iqra-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-![Iqra-2005 GitHub stats](https://github-readme-stats.vercel.app)
+
+![Iqra-2005's GitHub stats](https://github-readme-stats.vercel.app)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
