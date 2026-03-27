@@ -79,9 +79,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
- ![Iqra-2005's Stats](https://github-readme-stats-eight-theta.vercel.app)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iqra-2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
