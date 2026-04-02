@@ -75,17 +75,6 @@
 ---
 
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iqra-2005&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqra-2005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</div>
-
-
----
-
 ## 🤝 Let's Connect!
 
 📩 **Open to:**
