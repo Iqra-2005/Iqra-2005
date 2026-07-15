@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Iqra Shaikh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast+from+India;
-    Building+Real-World+AI+Applications+%26+Exploring+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast+from+India;Building+Real World+AI+Applications+%7C+Agentic+AI+Explorer" alt="Typing SVG" />
 </p>
 
 
