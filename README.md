@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-🎓 Final-year **B.Sc. Data Science & AI** student at Ramniranjan Jhunjhunwala College, Mumbai <br>
+🎓 **B.Sc. Data Science & AI** graduate from Ramniranjan Jhunjhunwala College, Mumbai <br>
 🤖 Passionate about building real-world AI applications - from raw data to deployed solutions <br>
 🌱 Currently exploring **Agentic AI**, LLM workflows, and model deployment  <br>
 📍 Based in Thane, Maharashtra, India  <br>
